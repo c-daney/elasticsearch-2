@@ -1,0 +1,3 @@
+#以前做过的一个项目用到的关于php调用elasticsearch的增删改查各种接口的例子
+#也包括一些shell脚本从mysql导数据到elasticsearch服务器
+
