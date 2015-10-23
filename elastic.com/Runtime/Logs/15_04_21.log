@@ -1,0 +1,1695 @@
+[ 2015-04-21T10:53:29+08:00 ] 0.0.0.0 
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 44 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 141 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/App.class.php 第 42 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003906s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 48 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000019s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000167s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000106s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000706s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000275s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: REQUEST_URI /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Log.class.php 第 82 行.
+
+[ 2015-04-21T10:59:21+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002582s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000208s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000175s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000152s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000850s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000172s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-04-21T10:59:37+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.001857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001914s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000519s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000246s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000184s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001311s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000165s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000195s ]
+
+[ 2015-04-21T11:02:27+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003347s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000241s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000082s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000165s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000847s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000177s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-04-21T11:04:55+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003078s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000184s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000169s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000149s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000675s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000167s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000198s ]
+
+[ 2015-04-21T11:05:21+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002330s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000227s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000184s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000115s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000844s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000175s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-04-21T11:05:43+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002384s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000190s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000202s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000147s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000840s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000159s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000189s ]
+
+[ 2015-04-21T11:10:11+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002898s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000201s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000183s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000224s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000899s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000485s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2015-04-21T11:10:58+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002691s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000201s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000182s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000189s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000863s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000176s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-04-21T11:11:00+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002246s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000248s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000190s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000233s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000969s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000196s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000235s ]
+
+[ 2015-04-21T11:11:57+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002630s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000198s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000181s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000165s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000830s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000174s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2015-04-21T11:12:22+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002458s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000198s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000232s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000163s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000178s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-04-21T11:12:32+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002098s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000089s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000175s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000150s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000195s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-04-21T11:13:05+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003085s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000227s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000196s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000161s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000910s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000175s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-04-21T11:13:28+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000219s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000225s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000167s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000787s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000183s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-04-21T11:15:19+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002516s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000207s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000197s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000160s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000178s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-04-21T11:15:21+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004322s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000051s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000014s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000161s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000718s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2015-04-21T11:17:22+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002591s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000636s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000200s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000163s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001317s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000177s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-04-21T11:17:45+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002640s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000746s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000219s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000187s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001549s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000197s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2015-04-21T11:18:08+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002275s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000655s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000062s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000153s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001197s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000165s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000196s ]
+
+[ 2015-04-21T11:18:21+08:00 ] 10.0.2.2 /?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003027s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000865s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000203s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.038435s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000181s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000242s ]
+
+[ 2015-04-21T11:18:34+08:00 ] 10.0.2.2 /?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002564s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000201s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000157s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000492s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000175s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-04-21T11:18:37+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002912s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000213s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000206s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000165s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000244s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2015-04-21T11:18:38+08:00 ] 10.0.2.2 /?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002844s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000099s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000174s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000149s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000170s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-04-21T11:25:28+08:00 ] 10.0.2.2 /?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003038s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000198s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000182s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000159s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000834s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000061s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2015-04-21T11:25:30+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002417s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000240s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000200s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000170s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000932s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000229s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2015-04-21T11:25:33+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004180s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000038s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000188s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000546s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-04-21T11:26:34+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-04-21T11:27:29+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+
+[ 2015-04-21T11:27:34+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002621s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000201s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000242s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000160s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000895s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000188s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-04-21T11:27:36+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002947s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000207s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000209s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000149s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000834s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000163s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2015-04-21T11:27:40+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+
+[ 2015-04-21T11:34:02+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002533s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000232s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000170s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000160s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000904s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000190s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-04-21T11:34:03+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002658s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000225s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000211s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000205s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000940s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000195s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000236s ]
+
+[ 2015-04-21T11:34:05+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049044s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000230s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000193s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000166s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000927s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000182s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-04-21T11:34:08+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002682s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000217s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000225s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000183s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000934s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000346s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2015-04-21T11:53:20+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002811s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000107s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000185s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000161s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000776s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000174s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-04-21T11:53:39+08:00 ] 10.0.2.2 /?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002944s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000225s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000637s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000218s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001365s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000195s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000229s ]
+
+[ 2015-04-21T11:53:41+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003454s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000257s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000257s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000174s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001099s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000190s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2015-04-21T11:53:42+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002885s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000291s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000198s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000772s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001587s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000191s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-04-21T11:53:44+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002966s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000234s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000142s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000051s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000801s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000237s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-04-21T11:53:46+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002824s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000091s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000188s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000163s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000776s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000216s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-04-21T11:53:48+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002723s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000209s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000216s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000160s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000875s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000201s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000234s ]
+
+[ 2015-04-21T11:54:10+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+
+[ 2015-04-21T11:54:22+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+
+[ 2015-04-21T11:56:52+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+
+[ 2015-04-21T11:56:55+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-04-21T11:56:59+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+
+[ 2015-04-21T11:57:15+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+
+[ 2015-04-21T11:57:18+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+
+[ 2015-04-21T11:57:27+08:00 ] 10.0.2.2 /index.php?m=Index&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002830s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000201s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000227s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000165s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000199s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000188s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-04-21T11:57:33+08:00 ] 10.0.2.2 /index.php?keywords=dd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002957s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000230s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000200s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000584s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001348s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000193s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-04-21T11:57:36+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002908s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000221s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000195s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001031s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000214s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000249s ]
+
+[ 2015-04-21T11:59:20+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003129s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000064s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000193s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000172s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000131s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000190s ]
+
+[ 2015-04-21T12:04:54+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+NOTIC: [8] Undefined variable: type /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002521s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000202s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000079s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000165s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000746s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000014s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000026s ]
+
+[ 2015-04-21T12:05:16+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined variable: type /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 13 行.
+NOTIC: [2] explode() expects parameter 2 to be string, array given /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002710s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000536s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000236s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000181s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001322s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000365s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2015-04-21T12:05:25+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Undefined variable: type /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003425s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000259s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000200s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000198s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001017s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000507s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2015-04-21T12:05:27+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [8] Undefined variable: type /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002719s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000205s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000182s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000163s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000899s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000180s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-04-21T12:05:52+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined variable: typeArr /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002925s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000197s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000181s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000157s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-04-21T12:06:23+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined variable: type /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003092s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000107s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000173s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000228s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2015-04-21T12:06:35+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002497s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000198s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000130s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000826s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000183s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000223s ]
+
+[ 2015-04-21T12:06:47+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002287s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000198s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000179s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000627s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001374s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000106s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2015-04-21T12:08:13+08:00 ] 10.0.2.2 /index.php?keywords=ddd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003021s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003076s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000199s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000178s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000161s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000818s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000083s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2015-04-21T12:08:34+08:00 ] 10.0.2.2 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002853s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000227s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000221s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000178s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000947s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000198s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2015-04-21T12:08:42+08:00 ] 10.0.2.2 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002762s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000199s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000183s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000162s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000178s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-04-21T12:08:56+08:00 ] 10.0.2.2 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002977s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000256s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000197s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000161s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000179s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-04-21T12:09:32+08:00 ] 10.0.2.2 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002578s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000218s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000231s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000114s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000835s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000193s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-04-21T12:10:26+08:00 ] 10.0.2.2 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002779s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000130s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000198s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000174s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000841s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000189s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-04-21T12:10:29+08:00 ] 10.0.2.2 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002610s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000230s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000211s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000162s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000912s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000171s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-04-21T12:10:32+08:00 ] 10.0.2.2 /index.php?keywords=d
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003196s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000249s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000301s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000061s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001502s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000203s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000238s ]
+
+[ 2015-04-21T12:11:08+08:00 ] 10.0.2.2 /index.php?keywords=d
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002550s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000253s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000185s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000193s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000938s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000178s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-04-21T13:25:42+08:00 ] 10.0.2.2 /index.php?keywords=d
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004176s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000299s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000653s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000189s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001576s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000317s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2015-04-21T13:26:03+08:00 ] 10.0.2.2 /index.php?keywords=d
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 35 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004735s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000246s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000230s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000231s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001090s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000310s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2015-04-21T13:27:41+08:00 ] 10.0.2.2 /index.php?keywords=d
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004899s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000245s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000230s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000186s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001030s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000478s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-04-21T13:28:09+08:00 ] 10.0.2.2 /index.php?keywords=d
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000269s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000259s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000675s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001480s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000294s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2015-04-21T13:28:22+08:00 ] 10.0.2.2 /index.php?keywords=home
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005004s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000245s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000257s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000204s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001024s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000390s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2015-04-21T13:28:24+08:00 ] 10.0.2.2 /index.php?keywords=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004795s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000256s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000241s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000188s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001088s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000336s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2015-04-21T13:28:48+08:00 ] 10.0.2.2 /index.php?keywords=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003829s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000254s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000262s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000188s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001359s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000140s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-04-21T13:31:28+08:00 ] 10.0.2.2 /index.php?keywords=dd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004100s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000534s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000255s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001578s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000313s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2015-04-21T13:31:59+08:00 ] 10.0.2.2 /index.php?keywords=dd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004513s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000292s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000249s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000228s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001163s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000355s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2015-04-21T13:32:19+08:00 ] 10.0.2.2 /index.php?keywords=dd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004265s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000246s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000220s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001073s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2015-04-21T13:32:32+08:00 ] 10.0.2.2 /index.php?keywords=dd
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/elastic.com/Runtime/Cache/39e10af1a53b7620ca57c85edb1a98f6.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004686s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000244s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000228s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000113s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/wwwroot/elastic.com/ThinkPHP/Common/functions.php:97) /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000292s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2015-04-21T16:08:09+08:00 ] 0.0.0.0 
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 44 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 141 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/App.class.php 第 42 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list /home/wwwroot/elastic.com/Runtime/Cache/f12c0a77906a0f355c95666536d66c0f.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006005s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 48 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000216s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000191s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000125s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000662s ]
+NOTIC: [8] Undefined index: REQUEST_URI /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Log.class.php 第 82 行.
+
+[ 2015-04-21T16:08:51+08:00 ] 0.0.0.0 
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 44 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Dispatcher.class.php 第 141 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/App.class.php 第 42 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined index: keywords /home/wwwroot/elastic.com/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list /home/wwwroot/elastic.com/Runtime/Cache/f12c0a77906a0f355c95666536d66c0f.php 第 43 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005464s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /home/wwwroot/elastic.com/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php 第 48 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000025s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000177s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000117s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001284s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000268s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000888s ]
+NOTIC: [8] Undefined index: REQUEST_URI /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Log.class.php 第 82 行.
+
+[ 2015-04-21T16:11:39+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+
+[ 2015-04-21T16:11:39+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+
+[ 2015-04-21T16:41:52+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=94398
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.044065s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` < '94398' )  [ RunTime:35.758941s ]
+
+[ 2015-04-21T16:44:17+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=94398&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.034840s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` < '94398' )  [ RunTime:27.340012s ]
+
+[ 2015-04-21T16:46:23+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=194398&filenum=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.055500s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` < '194398' )  [ RunTime:82.252574s ]
+
+[ 2015-04-21T16:51:01+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=194398&filenum=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.095967s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` < '194398' )  [ RunTime:50.385649s ]
+
+[ 2015-04-21T16:52:29+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=94398&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.109230s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` <= '94398' )  [ RunTime:28.151931s ]
+
+[ 2015-04-21T16:53:42+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=194398&filenum=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.063453s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` <= '194398' )  [ RunTime:52.519713s ]
+
+[ 2015-04-21T17:46:02+08:00 ] 10.0.2.2 /index.php?m=Dump&a=genre
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-04-21T17:46:33+08:00 ] 10.0.2.2 /index.php?m=Dump&a=genre
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000175s ]
+
+[ 2015-04-21T17:47:30+08:00 ] 10.0.2.2 /index.php?m=Dump&a=genre
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_genre` [ RunTime:0.449168s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_genre` WHERE ( `status` = 1 ) ORDER BY id asc  [ RunTime:1.000246s ]
+
+[ 2015-04-21T17:48:15+08:00 ] 10.0.2.2 /index.php?m=Dump&a=mood
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_mood` [ RunTime:0.452087s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_mood` WHERE ( `status` = 1 ) ORDER BY id asc  [ RunTime:0.899582s ]
+
+[ 2015-04-21T17:48:44+08:00 ] 10.0.2.2 /index.php?m=Dump&a=style
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 83 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_style` [ RunTime:0.401610s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_style` WHERE ( `status` = 1 ) ORDER BY id asc  [ RunTime:0.949414s ]
+
+[ 2015-04-21T17:48:55+08:00 ] 10.0.2.2 /index.php?m=Dump&a=theme
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 100 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_theme` [ RunTime:0.399962s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_theme` WHERE ( `status` = 1 ) ORDER BY id asc  [ RunTime:0.399902s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 135 行.
+
+[ 2015-04-21T17:49:39+08:00 ] 10.0.2.2 /index.php?m=Dump&a=theme
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_theme` [ RunTime:0.451109s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_theme` WHERE ( `status` = 1 ) ORDER BY id asc  [ RunTime:0.448381s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 135 行.
+
+[ 2015-04-21T17:50:11+08:00 ] 10.0.2.2 /index.php?m=Dump&a=theme
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+
+[ 2015-04-21T17:50:23+08:00 ] 10.0.2.2 /index.php?m=Dump&a=theme
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 83 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_theme` [ RunTime:0.401626s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_theme` WHERE ( `status` = 1 ) ORDER BY id asc  [ RunTime:0.399495s ]
+
+[ 2015-04-21T17:50:46+08:00 ] 10.0.2.2 /index.php?m=Dump&a=theme
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 100 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_theme` [ RunTime:0.400214s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_theme` WHERE ( `status` = 1 ) ORDER BY id asc  [ RunTime:0.399107s ]
+
+[ 2015-04-21T17:51:52+08:00 ] 10.0.2.2 /index.php?m=Dump&a=theme
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `box_theme` [ RunTime:0.400032s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`coversrc` FROM `box_theme` WHERE ( `status` = 0 ) ORDER BY id asc  [ RunTime:0.849728s ]
+
+[ 2015-04-21T17:54:36+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=89817&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.043266s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` <= '89817' )  [ RunTime:28.949018s ]
+
+[ 2015-04-21T17:56:08+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=89817&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 83 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.028857s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` <= '89817' )  [ RunTime:27.567133s ]
+
+[ 2015-04-21T17:58:31+08:00 ] 10.0.2.2 /index.php?m=Dump&a=song&minid=1&maxid=89817&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 100 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_song` [ RunTime:0.032219s ]
+SQL: SELECT `id` AS `typeid`,`title`,`singerid`,`singername`,`coversrc` FROM `music_song` WHERE ( `status` = 1 ) AND ( `singerid` <> 0 ) AND ( `id` <= '89817' )  [ RunTime:108.428971s ]
+
+[ 2015-04-21T17:58:50+08:00 ] 10.0.2.2 /index.php?m=Dump&a=song&minid=1&maxid=89817&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_song` [ RunTime:0.039820s ]
+SQL: SELECT `id` AS `typeid`,`title`,`singerid`,`singername`,`coversrc` FROM `music_song` WHERE ( `status` = 1 ) AND ( `singerid` <> 0 ) AND ( `id` <= '89817' ) ORDER BY id asc LIMIT 1   [ RunTime:0.143032s ]
+
+[ 2015-04-21T18:01:06+08:00 ] 10.0.2.2 /index.php?m=Dump&a=song&minid=1&maxid=89817&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 0 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_song` [ RunTime:0.034252s ]
+SQL: SELECT `id` AS `typeid`,`title`,`singerid`,`singername`,`coversrc` FROM `music_song` WHERE ( `status` = 1 ) AND ( `singerid` <> 0 ) AND ( `id` <= '89817' ) ORDER BY id asc  [ RunTime:107.846437s ]
+
+[ 2015-04-21T18:01:39+08:00 ] 10.0.2.2 /index.php?m=Dump&a=singer&minid=1&maxid=94398&filenum=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [2048] Declaration of DumpAction::theme() should be compatible with that of Action::theme() /home/wwwroot/elastic.com/Lib/Action/DumpAction.class.php 第 83 行.
+NOTIC: [8] Undefined index: db_dsn /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 130 行.
+NOTIC: [8] Undefined index: db_params /home/wwwroot/elastic.com/ThinkPHP/Lib/Core/Db.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `music_singer` [ RunTime:0.068099s ]
+SQL: SELECT `id` AS `typeid`,`name` AS `title`,`similar_status`,`coversrc` FROM `music_singer` WHERE ( `status` <> 8 ) AND ( `songid` <> '' ) AND ( `id` <= '94398' ) ORDER BY id asc  [ RunTime:31.752669s ]
+

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+<script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+<script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="Public/style.css" />
+<script type="text/javascript" src="Public/jquery.paginate.js"></script>
+<script>
+$(function(){
+	$('#page').paginate({
+		count:{$pageinfo.pagenum},
+		start:1,
+		display:<php>if($pageinfo['pagenum'] > 12){echo 12;}else{echo $pageinfo['pagenum']/2;}</php>,
+		border:false,
+		border_color:'#BEF8B8',
+		text_color:'#79B5E3',
+		background_color:'none',	
+		text_hover_color:'#2573AF',
+		background_hover_color:'none', 
+		images:false,
+		mouse:'press',
+		onChange:function(page){
+				window.location.replace('index.php');
+			}
+	});	
+});
+</script>
+<title>Elasticsearch</title>
+<style>
+html, body, div, h1, h2, h3, h4, h5, h6, p, td, tr, ul, ol, li, table, dl, dd, dt, img, form { margin:0; padding:0 }
+body { font-family:'微软雅黑'; font-size:12px; line-height:180%;}
+table { border-collapse:collapse; border-spacing:0; border:0; padding:0; margin:0 }
+img { border:none; }
+ol, ul, li { list-style:none }
+caption, th { text-decoration:none; }
+</style>
+</head>
+<body>
+<div class="container">
+	<div class="row">
+		<div style=" margin:30px auto; border-bottom:1px solid #eee;"><h3>Elasticsearch</h3></div>
+	</div>
+	<div class="row" style="margin-bottom:30px;">
+		<form class="form-inline" action="index.php?m=Index&a=index" method="get">
+  			<div class="form-group">
+    				<div class="input-group">
+      				<input type="text" class="form-control" id="" name="keywords" placeholder="请输入关键字" value="{$Think.get.keywords}" style="width:500px;" />
+    				</div>
+  			</div>
+  			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button type="submit" class="btn btn-primary">提交</button>
+		</form>
+	</div>
+	<div class="row">
+	   <div class="col-md-7" style="padding-left:0;">	
+		<div class="panel panel-primary">
+			<div class="panel-heading">
+    				<h3 class="panel-title">搜索结果：</h3>
+  			</div>
+			<div class="panel-body">
+			<volist name="list" id="va" empty="暂无搜索结果">
+				<div class="media">
+  					<div class="media-left">
+    						<a href="#">
+      							<img class="media-object" src="{$va._source.coversrc}" alt="{$va._source.title}" style="width:64px;height:64px;">
+    						</a>
+  					</div>
+  					<div class="media-body">
+    						<h4 class="media-heading">{$va._source.title}</h4>
+    						<p>类型：{$va._source.type}</p>
+  					</div>
+				</div>
+			</volist>
+  			</div>
+		</div>
+		<if condition="$pageinfo['totalnum'] neq 0">
+		<div id="page" style="font-size:15px;">
+		</div>
+		</if>
+	  </div>
+	  <div class="col-md-3">
+			right
+	  </div>
+	</div>
+</div>
+</body>
+</html>
